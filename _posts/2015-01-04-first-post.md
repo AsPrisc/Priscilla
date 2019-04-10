@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Effects of working memory and ADHD-like traits on image viewing
+image: /img/coffee.png
 ---
 
-This is my first post, how exciting!
+ADHD
