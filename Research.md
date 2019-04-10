@@ -1,7 +1,7 @@
-A conventional metaphor states 'The eyes are the window of the soul' This is not enough - 
-# The eyes are the window of the cognition, as well.
-Eyes and cognition are the skeleton of my Doctorate (PhD) Studies.
+A conventional metaphor states 'The eyes are the window of the soul' 
+This is not enough - The eyes are the window of the cognition, as well.
 
+Eyes and cognition are the skeleton of my Doctorate (PhD) Studies.
 I am under the supervision of Tom Foulsham and Kevin Dent.
 
 # My Research:
