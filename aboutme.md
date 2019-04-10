@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hello, Hola!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#Name
+Astrid Priscilla Martinez Cedillo
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#Occupation:
+PhD Student at University of Essex, Department of Psychology, #visionlabEssex"
 
-What else do you need?
+#Hobbies:
+Learning softwares instead of reading some articles, oops! I love to dance, cycle, walk, read and dance again (bachata and salsa). As of March 2019. I started in the yoga world :). I am quite excited.
 
-### my history
+#From:
+Mexico City
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#Current Location:
+Colchester, UK. University of Essex #visionlabEssex
+
+#Qualifications:
+Bachelor in Science (Clinical Psychology) UMA Mexico (2012) 
+Certified as Clinical Neuropsychology, BUAP (2011)
+Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2015) 
+
+#Software:
+I am learning/using: (1) R studio for data analysis and visualisation, (2) MATLAB for creating stimuli (Psych Toolbox and Saliency Toolbox), and (3) Unity with Body Creator, simply curiosity.
