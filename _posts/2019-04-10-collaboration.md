@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Occluding the eyes in conversation: how do ADHD traits affect visual attention?
-subtitle: Collaboration with Jessica Dawson 
-
+title: Occluding the eyes in a conversation. Project Collaboration with Jessica Dawson
 ---
 
+ADHD
