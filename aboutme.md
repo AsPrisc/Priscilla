@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-bigimg: /img/curacao.jpg
+bigimg: /img/banner.png
 subtitle: Hello, Hola!
 ---
 
