@@ -1,3 +1,10 @@
+---
+layout: page
+title: Research
+bigimg: /img/curacao.jpg
+
+---
+
 A conventional metaphor states 'The eyes are the window of the soul' 
 This is not enough - The eyes are the window of the cognition, as well.
 
