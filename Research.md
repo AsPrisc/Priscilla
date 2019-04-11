@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-bigimg: /img/curacao.jpg
+bigimg: /img/banner.png
 
 ---
 
