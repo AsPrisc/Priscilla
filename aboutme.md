@@ -7,8 +7,7 @@ subtitle: Hello, Hola!
 
 Name: Astrid Priscilla Martinez Cedillo
 
-Occupation:
-PhD Student at University of Essex, Department of Psychology, #visionlabEssex
+PhD Student at University of Essex, Department of Psychology.
 Teaching Assistant in Psychiatry and Mental Illness (Department of Sociology)
 Lab Assistant in Statistics and Research Methods (Department of Psychology) 
 
@@ -32,5 +31,5 @@ Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2
 Software:
 I am learning/using: 
 (1) R studio for data analysis and visualisation, 
-(2) MATLAB for creating stimuli (Psych Toolbox and Saliency Toolbox), and 
+(2) MATLAB for creating stimuli (PsychToolbox and Saliency Toolbox), and 
 (3) Unity with Body Creator, simply curiosity.
