@@ -2,7 +2,7 @@
 layout: page
 title: About me
 bigimg: /img/curacao.jpg
-subtitle: Hello, Hola!
+subtitle: Cognitive/Neuropsychologist and Dancer
 ---
 
 Name: Astrid Priscilla Martinez Cedillo
