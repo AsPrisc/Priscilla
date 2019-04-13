@@ -15,11 +15,10 @@ La mejor propuesta para una autonomía curricular  y el desarrollo socio emocion
 Esta propuesta inició en la  Ciudad de México, y se ha dedicado a realizar investigación en el desarrollo infantil. 
 Actualmente más de 40 Jardines de Niños entre oficiales y particulares estan involucrados en esta iniciativa. 
 
-2016 - Inicia en tres Jardines de Niños. Insituto Antoine Henri Becquerel, JN Republica de Brasil y JN Cuetlaxochitl. 
-2017 - Se incorpora toda la zona 54 de la Delegacion de Tlahuac, a los pocos meses la zona 173 Mixquic se incorpora. 
-2018 - Se presenta en Veraxruz y Queretaro. Se realiza proyectos a la para en el Jardiín de Niños Campanita. 
-2019 - Se presenta ante el Congreso, Diputada Zaira Ochoa, como iniciativa para el Modelo Educativo. 
-
+## 2016 - Inicia en tres Jardines de Niños. Insituto Antoine Henri Becquerel, JN Republica de Brasil y JN Cuetlaxochitl. 
+## 2017 - Se incorpora toda la zona 54 de la Delegacion de Tlahuac, a los pocos meses la zona 173 Mixquic se incorpora, también. 
+## 2018 - Se incorporan escuelas de Veracruz y Queretaro. Se realiza proyectos a la par con el Jardiín de Niños Campanita. 
+## 2019 - Se presenta ante el Congreso, Diputada Zaira Ochoa, como iniciativa para el Modelo Educativo. 
 
 ## El programa
 
@@ -46,19 +45,13 @@ Conductas agresivas
 Estrés emocional
 Problemas conductuales
 
-
-![](https://www.youtube.com/watch?v=_NzXsgVKpFQ)
-
 # Autores y Colaboradores 
 
-Caricaturas y diseño: Sergio Rojas Sanchez. 
-Investigadores:
-Martha Albino
-Miriam Reyes
-Antares Quiroz
+Caricaturas y diseño:  Sergio Rojas Sanchez. 
+Investigadores: Martha Albino, Miriam Reyes, & Antares Quiroz.
 
 Promoción y Difusión
-Aline Martinez 
+Aline Martinez -  alibece@live.com.mx 
 
 Idea Original Mexicana.
 
