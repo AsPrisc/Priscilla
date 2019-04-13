@@ -4,7 +4,7 @@ title: CV
 bigimg: /img/curacao.jpg
 
 ---
-##Education
+## Education
 PhD student at University of Essex, Colchester.
 Title of the Project: Where do we look in complex scenarios?
 Supervisor: Foulsham, Tom & Dent, Kevin.
@@ -15,7 +15,7 @@ Vrije Universiteit Amsterdam. Dissertation Eye Movements in the Real World.
 Bachelor in Science Degree. Universidad Marista, Mexico City 2012
 Dissertation. Attentional Impairments in ADHD children and ADHD with RD comorbid.
 
-##Work Experience
+## Work Experience
 University of Essex, GLA. Research Methods PS114 – GLA & Statistics PS115
 Psychatry and Mental Illness - SC326 GTA
 
@@ -42,13 +42,11 @@ Viso spatial working Memory and the Programming of Eye Movements.
 M.D. PhD. Lilia Albores Gallo. Dr. Julio Flores, Lic. Eliana Medrano
 Attentional Impairments in ADHD children 
 
-##Oral Presentation.
-Martínez-Cedillo. A.P, Quiroz Villasana. D, Reyes Zacarias. M, Albrino Hernandez. M., (2018) From the comprehension to the understanding: A
-program to acquire ethical values for kindergarteners: Book Presentation. 
+## Oral Presentation.
+Martínez-Cedillo. A.P, Quiroz Villasana. D, Reyes Zacarias. M, Albrino Hernandez. M., (2018) From the comprehension to the understanding: A program to acquire ethical values for kindergarteners: Book Presentation. 
 Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
-Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo 
-en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
+Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From the comprehension to the understanding: A
 program to acquire ethical values for kindergarteners. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
@@ -59,9 +57,8 @@ learning disorder, Asociación Mexicana de Neuropsicologia: Monterrey.
 Martinez-Cedillo. A.P; Chacon, F & Barragán, O (2016) The cognitive profile of the Sluggish Cognitive Tempo and ADHD in
 Mexican Population. Asociación Mexicana de Neuropsicologia: Monterrey.
 
-##Poster Presentation.
-Martínez-Cedillo. A.P. Dent, K & Foulsham T (2018). Social and Salient competition during a working memory task in ADHD-like traits, 
-European Summer School on Eye Movements. Germany.
+## Poster Presentation.
+Martínez-Cedillo. A.P. Dent, K & Foulsham T (2018). Social and Salient competition during a working memory task in ADHD-like traits, European Summer School on Eye Movements. Germany.
 
 Martínez-Cedillo. A.P. & Luman, M. (2015). The feedback Related Negativity in ADHD: A meta-analytic review. European
 Congress on Clinical Neurophysiology. Brno, Czech Republic.
@@ -72,21 +69,20 @@ TDAH con y sin dislexia. World Psychiatry Association: Guadalajara.
 Martínez-Cedillo. A.P. & Medrano-Nava, I.E. (2013). Procesos Atencionales en niños con TDAH y un trastorno
 neuropsicológico en la lectura comórbido. Asociación Psiquiátrica Mexicana: Querétaro.
 
-##Conference Paper
+## Conference Paper
 Martínez-Cedillo. A.P. & Luman, M. (2016). The Feedback Related Negativity in ADHD: A meta-analytic Review. Journal of
 Clinical Neurophysiology. 127(3), p.p. e113. DOI http://dx.doi.org/10.1016/j.clinph.2015.11.381
 
-Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo 
-en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
+Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From the comprehension to the understanding: A
 program to acquire ethical values for kindergarteners. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 
-##Books
+## Books
 Martínez Cedillo, A.P., Reyes, M & Albino, M (2018) Del Egocentrismo a la adquisición y comprensión de valores: Programa
 Educativo y Social. Editorial Académica Española, ISBN 978-620-2-15485-6.
 
-##Awards
+## Awards
 Martinez-Cedillo.A.P. (2013). Procesos Atencionales en niños con TDAH y un trastorno neuropsicológico en la lectura
 comórbido. First Place. Mexican Psychiatry Association: Querétaro
