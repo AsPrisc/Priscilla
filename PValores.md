@@ -25,7 +25,7 @@ Esta propuesta inició en la  Ciudad de México, y se ha dedicado a realizar inv
 
 Se rige con estándares académicos mexicanos e Internacionales para lograr 
 
-Mejora en:
+## Mejora en:
 Desempeño académico
 Autoestima
 Inteligencia emocional
@@ -34,14 +34,13 @@ Auto control
 Conducta en el salón de clases
 Lenguaje y Comunicación.
 
-Reducción en:
+## Reducción en:
 Conductas agresivas
 Estrés emocional
 Problemas conductuales
 
-How about a yummy crepe?
 
-![En entrevista con autores](https://www.youtube.com/watch?v=_NzXsgVKpFQ)
+![](https://www.youtube.com/watch?v=_NzXsgVKpFQ)
 
 # Autores y Colaboradores 
 
