@@ -2,7 +2,7 @@
 layout: page
 title: Proyecto de Valores 
 subtitle: Wise-e
-gh-badge: [star, fork, follow]
+bigimg: /img/kinder.png
 comments: true
 ---
 WISE-E es una propuesta educativa y social enfocada en el desarrollo socio emocional infantil en la educación básica 
