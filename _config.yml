@@ -27,10 +27,10 @@ navbar-links:
   Research: "Research"
   CV: "CV"
   PValores: "PValores"
-  #Resources:
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #  - GitHub Pages: "https://pages.github.com/"
+  Collaborators:
+    - Tom Foulsham: "https://sites.google.com/site/tomfoulshamresearch/home/?fbclid=IwAR0CpCyYNblzp1TXpp2dOS_3kMlEk9IBc_4HTmqtCEnNYFiC5EXUPfaOBI8/"
+    - Kevin Dent: "https://www.essex.ac.uk/people/dentk42709/kevin-dent/"
+    - Jessica Dawson: "https://jessicadawsonphd.weebly.com/"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
