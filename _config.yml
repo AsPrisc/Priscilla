@@ -25,6 +25,7 @@ description: The eyes are the window of the cognition!
 navbar-links:
   About Me: "aboutme"
   Research: "Research"
+  Pvalores: "Pvalores"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
