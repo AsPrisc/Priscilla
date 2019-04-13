@@ -27,8 +27,6 @@ Bachelor in Science (Clinical Psychology) UMA Mexico (2012)
 Certified as Clinical Neuropsychology, BUAP (2011)
 Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2015) 
 
-
-Software:
 I am learning/using: 
 (1) R studio for data analysis and visualisation, 
 (2) MATLAB for creating stimuli (PsychToolbox and Saliency Toolbox), and 
