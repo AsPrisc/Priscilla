@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "Research"
   CV: "CV"
-  PValores: "PValores"
+  #PValores: "PValores"
   Collaborators:
     - Tom Foulsham: "https://sites.google.com/site/tomfoulshamresearch/home/?fbclid=IwAR0CpCyYNblzp1TXpp2dOS_3kMlEk9IBc_4HTmqtCEnNYFiC5EXUPfaOBI8/"
     - Kevin Dent: "https://www.essex.ac.uk/people/dentk42709/kevin-dent/"
