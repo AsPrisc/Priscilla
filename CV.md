@@ -24,7 +24,8 @@ Psychatry and Mental Illness - SC326 GTA
 2008 – 05/2013: Antoine Henri Becquerel, México. Psychologist
 
 02/2014 – 06/2014: Tamwood International College, London Ontario, Canada, camp counsellor info@tamwood.com
-Research Experience
+
+## Research Experience
 
 02/2015- 07/2015: Department of Cognitive Psychology, VU Amsterdam (Student Intern)
 PhD Daniel Schreij, in collaboration con M.A. Nicola Anderson
@@ -33,18 +34,18 @@ Eye Movements in the Real World. (mobile eye tracker)
 08/2014- 05/2015: Clinical Neuro Psychology Section, VU Amsterdam (Student Intern)
 PhD. Marjolein Luman,
 A meta-analytic review in the feedback related in ADHD population
-02/2014 – 06/2014: Department of Cognitive Psychology, VU Amsterdam (Student Intern)
 
+02/2014 – 06/2014: Department of Cognitive Psychology, VU Amsterdam (Student Intern)
 MSc Paul Boon, PhD student
 Viso spatial working Memory and the Programming of Eye Movements.
-08/2011– 05/2013 Child Psychiatry Hospital. Dr. Juan N. Navarro.
 
+08/2011– 05/2013 Child Psychiatry Hospital. Dr. Juan N. Navarro.
 M.D. PhD. Lilia Albores Gallo. Dr. Julio Flores, Lic. Eliana Medrano
 Attentional Impairments in ADHD children 
 
 ## Oral Presentation.
-Martínez-Cedillo. A.P, Quiroz Villasana. D, Reyes Zacarias. M, Albrino Hernandez. M., (2018) From the comprehension to the understanding: A program to acquire ethical values for kindergarteners: Book Presentation. 
-Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
+
+Martínez-Cedillo. A.P, Quiroz Villasana. D, Reyes Zacarias. M, Albrino Hernandez. M., (2018) From the comprehension to the understanding: A program to acquire ethical values for kindergarteners: Book Presentation. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
@@ -79,7 +80,7 @@ Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From th
 program to acquire ethical values for kindergarteners. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 
-## Books
+## Book
 Martínez Cedillo, A.P., Reyes, M & Albino, M (2018) Del Egocentrismo a la adquisición y comprensión de valores: Programa
 Educativo y Social. Editorial Académica Española, ISBN 978-620-2-15485-6.
 
