@@ -16,9 +16,9 @@ I am under the supervision of Tom Foulsham and Kevin Dent.
 Have you ever wondered what might  happened if we are not able to attend to the red lights while walking, cycling or driving? 
 It would be chaotic. Wouldn't it be? 
 
-Previous research has suggested that  within a scene a great amount of perceptual information facilitates distractors avoidance, conversely; a great amount of cognitive information impede distractor avoidance (see, Lavie, 2005).  Attention Deficit Hyperactivity Disorder (ADHD) is characterises by the difficulty to avoid distractions (ADHD; APA, 2013).
+Previous research has suggested that within a scene a great amount of perceptual information facilitates distractors avoidance, conversely; a great amount of cognitive information impedes distractor avoidance (see, Lavie, 2005).  Attention Deficit Hyperactivity Disorder (ADHD) is characterises by the difficulty to avoid distractions (ADHD; APA, 2013).
 
-In my research I am trying to understand how our attention is capture while perceptual information (image scenes) and cogntive information (cognitive task) interplay. 
+In my research I am trying to understand: how our attention is captured while perceptual information (image scenes) and cognitive information (cognitive task) interplay. Furthermore, whether a subclinical population with ADHD-like traits perform differently. 
 
 
 # Current Work:
