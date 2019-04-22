@@ -13,8 +13,13 @@ I am under the supervision of Tom Foulsham and Kevin Dent.
 
 # My Research:
 
-On a daily basis, avoiding distractors are crucial for our quality of life. Without this ability, it would be difficult to attend to the red lights when cycling, driving or walking. It has been suggested that perceptual information helps to avoid visual distractors, however; loads of cognitive information interfere on distractor avoidance (see Lavie 2005). One of the main symptoms of Attention Deficit Hyperactivity Disorder (ADHD) is the difficulty to avoid distractors (ADHD; APA, 2013).
-In my research I am trying to understand the underlying cognitive mechanisms while looking at perceptual information (image scenes). More specifically, why we tend to look at certain areas (a person) and other areas seems to be less relevant during several cognitive task. Furthermore, why people with high traits of ADHD seem to have difficulties to inhibit certain areas of an image.
+Have you ever wondered what might  happened if we are not able to attend to the red lights while walking, cycling or driving? 
+It would be chaotic. Wouldn't it be? 
+
+Previous research has suggested that  within a scene a great amount of perceptual information facilitates distractors avoidance, conversely; a great amount of cognitive information impede distractor avoidance (see, Lavie, 2005).  Attention Deficit Hyperactivity Disorder (ADHD) is characterises by the difficulty to avoid distractions (ADHD; APA, 2013).
+
+In my research I am trying to understand how our attention is capture while perceptual information (image scenes) and cogntive information (cognitive task) interplay. 
+
 
 # Current Work:
 
