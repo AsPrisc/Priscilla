@@ -23,7 +23,7 @@ Psychatry and Mental Illness - SC326 GTA
 
 2008 – 05/2013: Antoine Henri Becquerel, México. Psychologist
 
-02/2014 – 06/2014: Tamwood International College, London Ontario, Canada, camp counsellor info@tamwood.com
+02/2014 – 06/2014: Tamwood International College, London Ontario, Canada, camp counsellor 
 
 ## Research Experience
 
