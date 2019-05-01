@@ -5,7 +5,7 @@ bigimg: /img/curacao.jpg
 subtitle: Cognitive/Neuropsychologist and Dancer
 ---
 
-Name: Astrid Priscilla Martinez Cedillo
+Name: Astrid Priscilla Martinez Cedillo 
 
 PhD Student at University of Essex, Department of Psychology.
 Teaching Assistant in Psychiatry and Mental Illness (Department of Sociology)
@@ -30,4 +30,4 @@ Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2
 I am learning/using: 
 (1) R studio for data analysis and visualisation, 
 (2) MATLAB for creating stimuli (PsychToolbox and Saliency Toolbox), and 
-(3) Unity with Body Creator, simply curiosity.
+(3) Unity & Blender with Body Creator, simply curiosity.
