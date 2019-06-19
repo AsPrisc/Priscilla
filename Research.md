@@ -23,6 +23,10 @@ My PhD project is aimed at investigating: how our attention is captured while pe
 
 # Current Work:
 
-Apart from my research, I am collaborating with Jessica Dawson. We are studying whether occluding the eyes with sunglasses affects the way we observe group conversation and whether ADHD-like traits affects this.
+Apart from my research, I am collaborating with 
+- Jessica Dawson. We are studying whether occluding the eyes with sunglasses affects the way we observe group conversation and whether ADHD-like traits affects this.
+
+- Loes Van Dam and Jack Mitchell. We are studying Muscle Dysmorphic Disorder in VR (Virtual Reality) environment. 
+
 
 
