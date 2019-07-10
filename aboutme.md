@@ -24,6 +24,7 @@ Qualifications:
 Bachelor in Science (Clinical Psychology) UMA Mexico (2012) 
 Certified as Clinical Neuropsychology, BUAP (2011)
 Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2015) 
+Associate Fellowship (AFHEA) 
 
 I am learning/using: 
 (1) R studio for data analysis and visualisation, 
