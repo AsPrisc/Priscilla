@@ -23,7 +23,6 @@ description: The eyes are the window of the cognition!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Research: "Research"
   CV: "CV"
   #PValores: "PValores"
