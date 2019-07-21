@@ -11,7 +11,7 @@ This is not enough - The eyes are the window of the cognition, as well.
 
 Eyes and cognition are the skeleton of my Doctorate (PhD) Studies.
 I am a second-year PhD student at the Vision Lab Essex based at the Department of Psychology in the University of Essex, UK.  I am under the supervision of Tom Foulsham and Kevin Dent.
-# My name: Astrid Priscilla Martinez-Cedillo
+My name: Astrid Priscilla Martinez-Cedillo
 
 Hobbies: Playing around with some data and trying to make my codes run. :)  I love to dance, cycle, walk, read and dance again. As of March 2019, I started in the yoga world :) - I am quite excited, and relaxed.
 
