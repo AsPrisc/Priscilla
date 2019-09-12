@@ -59,6 +59,9 @@ Martinez-Cedillo. A.P; Chacon, F & Barragán, O (2016) The cognitive profile of 
 Mexican Population. Asociación Mexicana de Neuropsicologia: Monterrey.
 
 ## Poster Presentation.
+
+Martínez-Cedillo. A.P. Dent, K & Foulsham T (2019). The effects of working memory load on image viewing. European Conference on Eye Movements. Spain.
+
 Martínez-Cedillo. A.P. Dent, K & Foulsham T (2018). Social and Salient competition during a working memory task in ADHD-like traits, European Summer School on Eye Movements. Germany.
 
 Martínez-Cedillo. A.P. & Luman, M. (2015). The feedback Related Negativity in ADHD: A meta-analytic review. European
