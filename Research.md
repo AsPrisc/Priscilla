@@ -22,12 +22,10 @@ Member: (1) Vision Lab Essex (2) Colchester R Group (3) POWER Providing Opportun
 
 # My Research:
 
-Have you ever wondered what might  happened if we are not able to attend to the red lights while walking, cycling or driving? 
+Have you ever wondered what might happened if we are not able to attend to the red lights while walking, cycling or driving? 
 It would be chaotic. Wouldn't it be? 
 
-Previous research has suggested that within a scene a great amount of perceptual information facilitates distractors avoidance, conversely; a great amount of cognitive information impedes distractor avoidance (see, Lavie, 2005).  Attention Deficit Hyperactivity Disorder (ADHD) is characterises by the difficulty to avoid distractions (ADHD; APA, 2013).
-
-My PhD project is aimed at investigating: how our attention is captured while perceptual information (image scenes) and cognitive information (the performance of a cognitive task) interplay. Furthermore, whether a subclinical population with ADHD-like traits perform differently. To do this, I am currently testing a large sample of participants with high and low traits of ADHD while performing cognitive task. Specifically, these are paradigms (task) to measure working memory load, cognitive control, and reinforcement learning. 
+Previous research has suggested that high loads of cognitive information impedes distractor avoidance (see, Lavie, 2005).The difficulty to avoid distractors is commonly observed in people diagnosed with Attention Deficit Hyperactivity Disorder (ADHD; APA, 2013). My PhD project is aimed at investigating: how our attention is captured during the performance of cognitive and image-viewing tasks. Furthermore, whether a subclinical population with ADHD-like traits perform differently. To do this, I am currently testing a large sample of participants with high and low traits of ADHD while performing cognitive task. Specifically, these are paradigms to measure working memory load, cognitive control, and reinforcement learning. 
 
 # Current Work:
 
