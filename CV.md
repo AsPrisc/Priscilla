@@ -16,12 +16,11 @@ Bachelor in Science Degree. Universidad Marista, Mexico City 2012
 Dissertation. Attentional Impairments in ADHD children and ADHD with RD comorbid.
 
 ## Work Experience
-University of Essex, GLA. Research Methods PS114 – GLA & Statistics PS115
-Psychatry and Mental Illness - SC326 GTA
+University of Essex:
+As GLA: Research Methods PS114; Statistics 1st year, PS115; Statistics 2nd year PS212; Seeing and Hearing PS414. 
+As GTA: Psychatry and Mental Illness SC326.
 
-08/2015 – 2017: Antoine Henri Becquerel, México. Academic Consultant
-
-2008 – 05/2013: Antoine Henri Becquerel, México. Psychologist
+2008 – 05/2013 ; 08/2015 – 2017: Antoine Henri Becquerel, México. Psychologist / Academic Consultant & IT assistant. 
 
 02/2014 – 06/2014: Tamwood International College, London Ontario, Canada, camp counsellor 
 
