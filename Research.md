@@ -18,7 +18,7 @@ Qualifications: Bachelor in Science (Clinical Psychology) UMA Mexico (2012) Cert
 
 I am learning/using: (1) R studio for data analysis and visualisation, (2) MATLAB for creating stimuli (PsychToolbox and Saliency Toolbox), and (3) Unity & Blender with Body Creator, simply curiosity.
 
-Member: (1) Vision Lab Essex (2) Colchester R Group (3) POWER Providing Opportunities for Women in Education Research (4) Essex Open Science Working Group (5) Sociedad Mexicana de Psicologia
+Member: (1) Vision Lab Essex (2) Colchester R Group (3) POWER Providing Opportunities for Women in Education Research (4) Essex Open Science Working Group (5) Sociedad Mexicana de Psicologia (6) Vision Science Society. 
 
 # My Research:
 
