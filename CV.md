@@ -5,7 +5,7 @@ bigimg: /img/curacao.jpg
 
 ---
 ## Education
-PhD student at University of Essex, Colchester.
+Psychology PhD student at University of Essex, Colchester.
 Title of the Project: Where do we look in complex scenarios?
 Supervisor: Foulsham, Tom & Dent, Kevin.
 
@@ -89,3 +89,13 @@ Educativo y Social. Editorial Académica Española, ISBN 978-620-2-15485-6.
 ## Awards
 Martinez-Cedillo.A.P. (2013). Procesos Atencionales en niños con TDAH y un trastorno neuropsicológico en la lectura
 comórbido. First Place. Mexican Psychiatry Association: Querétaro
+
+## Funding 
+
+The effects of working memory on emotion processing and ADHD-like traits. 
+
+-	Departmental Research Student Fund, University of Essex £500 (January, 2020) 
+-	Gorilla Experiment Builder, 250 tokens (January, 2020)
+
+
+
