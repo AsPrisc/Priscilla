@@ -5,8 +5,7 @@ bigimg: /img/curacao.jpg
 
 ---
 ## Education
-Psychology PhD student at University of Essex, Colchester.
-Title of the Project: Where do we look in complex scenarios?
+Cognitive Neuroscience PhD student at University of Essex, Colchester.
 Supervisor: Foulsham, Tom & Dent, Kevin.
 
 Research Master in Cognitive Neuropsychology. 2015
