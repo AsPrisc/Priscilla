@@ -30,8 +30,8 @@ navbar-links:
     - Tom Foulsham: "https://sites.google.com/site/tomfoulshamresearch/home/?fbclid=IwAR0CpCyYNblzp1TXpp2dOS_3kMlEk9IBc_4HTmqtCEnNYFiC5EXUPfaOBI8/"
     - Kevin Dent: "https://www.essex.ac.uk/people/dentk42709/kevin-dent/"
     - Jessica Dawson: "https://jessicadawsonphd.weebly.com/"
-    - Loes Van Dam: "https://www.essex.ac.uk/people/vanda26709/loes-van-dam"
-    - Jack Mitchell: "https://www.essex.ac.uk/people/mitch05204/jack-mitchell"
+    - Lilia Albores-Gallo: "https://www.researchgate.net/profile/Lilia_Albores-Gallo"
+    
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -77,7 +77,7 @@ author:
 social-network-links:
   rss: true
   email: "a.p.martinezcedillo@essex.ac.uk"
-  #facebook: daattali
+  facebook: visualattention
   github: AsPrisc
   twitter: aspri09
 #  reddit: yourname
