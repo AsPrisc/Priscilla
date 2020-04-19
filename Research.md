@@ -33,7 +33,6 @@ Apart from my research, I am collaborating with
 
 - Jessica Dawson. We are studying whether occluding the eyes with sunglasses affects the way we observe group conversation and whether ADHD-like traits affects this.
 
-- Loes Van Dam and Jack Mitchell. We are studying Muscle Dysmorphic Disorder in VR (Virtual Reality) environment. 
-
+- Dr. Lilia Albores-Gallo. we are studying cognitive impairments in ADHD, ASD and ADHD +ASD. 
 
 
