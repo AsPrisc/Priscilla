@@ -10,11 +10,11 @@ A conventional metaphor states 'The eyes are the window of the soul'
 This is not enough - The eyes are the window of the cognition, as well.
 
 Eyes and cognition are the skeleton of my Doctorate (PhD) Studies.
-My name: Astrid Priscilla Martinez-Cedillo. I am a third year PhD student at the Vision Lab in Essex based at the Department of Psychology in the University of Essex, UK.  I am under the supervision of Tom Foulsham and Kevin Dent.
+My name: Astrid Priscilla Martinez-Cedillo. I am a PhD candidate at the Vision Lab in Essex based at the Department of Psychology in the University of Essex, UK.  I am under the supervision of Tom Foulsham and Kevin Dent.
 
 Hobbies: Playing around with some data and trying to make my codes run. :)  I love to dance, cycle, walk, read and dance again. As of March 2019, I started in the yoga world :) - I am quite excited, and relaxed.
 
-Qualifications: Bachelor in Science (Clinical Psychology) UMA Mexico (2012) Certified as Clinical Neuropsychology, BUAP (2011) Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2015) Associate Fellowship Higher Education Academy (AFHEA).
+Qualifications: Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2015) Associate Fellowship Higher Education Academy (AFHEA).
 
 I am learning/using: (1) R studio for data analysis and visualisation, (2) MATLAB for creating stimuli (PsychToolbox and Saliency Toolbox), and (3) Unity & Blender with Body Creator, simply curiosity.
 
