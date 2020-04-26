@@ -15,3 +15,6 @@ Alternativamente, le pueddes pedir a tu Medico (paidopsiquitra, neurologo, psiqu
 
 a.p.martinezcedillo(a)essex.ac.uk 
 
+## Proyecto Jardin de Ninos
+
+El programa actualmente corre en diversas zonas de la CDMX. Si quieres conocer mas acerca del proyecto contacta a la Supervisora Mtra. martha Albino e09fzp0054z@sepdf.gob.mx 
