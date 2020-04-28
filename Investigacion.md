@@ -13,4 +13,5 @@ a.p.martinezcedillo@essex.ac.uk
 
 ## Proyecto Jardín de Niños
 
-El programa actualmente corre en diversas zonas de la CDMX. Si quieres conocer más acerca del proyecto contacta a la Supervisora Mtra. Martha Albino e09fzp0054z@sepdf.gob.mx 
+El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. www.becquerel.com.mx
+Si quieres conocer más acerca del proyecto contacta a la Supervisora Mtra. Martha Albino e09fzp0054z@sepdf.gob.mx 
