@@ -33,7 +33,7 @@ Apart from my research, I am collaborating with
 
 - Jessica Dawson. We are studying whether occluding the eyes with sunglasses affects the way we observe group conversation and whether ADHD-like traits affects this.
 
-- Jack Mitchell. We are investigating the bodily knowledge and perception in humans.
+- Jack Mitchell. We are investigating the bodily knowledge and perception within the general population and body builders. 
 
 - Dr. Lilia Albores-Gallo. we are studying cognitive impairments in ADHD, ASD and ADHD +ASD. 
 
