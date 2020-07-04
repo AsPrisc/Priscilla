@@ -1,7 +1,8 @@
 ---
+layout: page
 title: Bienvenido
 bigimg: /img/TDAH.png
-layout: page
+
 
 ---
 En esta sección encontrarás información escencial que apoyan la neurodiversidad e inclusion escolar. 
