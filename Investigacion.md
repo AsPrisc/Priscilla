@@ -3,6 +3,10 @@ layout: page
 bigimg: /img/TDAH.png
 
 ---
+## Bienvenido
+
+En esta sección encontrarás información escencial que apoyan la neurodiversidad e inclusion escolar. 
+
 ## Participa 
 
 Actualmente, estoy haciendo investigación usando protocolos en línea.
