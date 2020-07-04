@@ -10,8 +10,12 @@ Si has sido diagnosticado con el Trastorno de Déficit de Atención e Hiperactiv
 Alternativamente, le puedes pedir a tu Medico (paido psiquiatra, neurólogo, psiquiatra, etc.) que se ponga en contacto.
 a.p.martinezcedillo@essex.ac.uk
 
-
 ## Proyecto Jardín de Niños
 
 El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. www.becquerel.com.mx
-Si quieres conocer más acerca del proyecto contacta a la Supervisora Mtra. Martha Albino e09fzp0054z@sepdf.gob.mx 
+Si quieres conocer más acerca del proyecto escribe pvalorespreescolarbq@gmail.com 
+
+## Consultoria Escuelas
+
+He trabajado dando consultorias a escuelas particulares de la Ciudad de México y Querétaro. Principalmente, se busca crear ambientes de aprendizaje que promuevan la neurodiversidad y la exclusión en niño(a)s con TDAH, TEA. Los trabajos que se han hecho se han publicado, presentado en congresos, y en medios escritos. 
+No dudes en escribirme. El costo de los servicios es minimo. 
