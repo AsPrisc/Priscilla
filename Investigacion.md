@@ -16,7 +16,7 @@ a.p.martinezcedillo@essex.ac.uk
 
 ## Proyecto Jardín de Niños
 
-El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. [visita aqui el sitio](https://www.becquerel.com.mx)
+El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. [visita aqui el sitio Becquerel](http://becquerel.com.mx/)
 
 Si quieres conocer más acerca del proyecto escribe pvalorespreescolarbq@gmail.com 
 
