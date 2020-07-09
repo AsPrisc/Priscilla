@@ -5,7 +5,7 @@ bigimg: /img/TDAH.png
 
 
 ---
-En esta sección encontrarás información escencial que apoyan la neurodiversidad e inclusion escolar. 
+En esta sección encontrarás información esencial que apoyan la neurodiversidad e inclusion escolar. 
 
 ## Participa 
 
@@ -16,7 +16,8 @@ a.p.martinezcedillo@essex.ac.uk
 
 ## Proyecto Jardín de Niños
 
-El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. www.becquerel.com.mx
+El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. [visita aqui el sitio](https://www.becquerel.com.mx)
+
 Si quieres conocer más acerca del proyecto escribe pvalorespreescolarbq@gmail.com 
 
 ## Consultoria Escuelas
