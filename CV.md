@@ -26,7 +26,7 @@ As GTA: Psychatry and Mental Illness SC326.
 ## Research Experience
 
 02/2015- 07/2015: Department of Cognitive Psychology, VU Amsterdam (Student Intern)
-PhD Daniel Schreij, in collaboration con M.A. Nicola Anderson
+PhD Daniel Schreij, in collaboration with M.A. Nicola Anderson
 Eye Movements in the Real World. (mobile eye tracker)
 
 08/2014- 05/2015: Clinical Neuro Psychology Section, VU Amsterdam (Student Intern)
@@ -43,6 +43,8 @@ Attentional Impairments in ADHD children
 
 ## Oral Presentation.
 
+Martínez-Cedillo. A.P. Dent, K & Foulsham T (2020). What affects fixations during image viewing? Working memory load, saliency, and ADHD-like traits, PSYPAG.
+
 Martínez-Cedillo. A.P, Quiroz Villasana. D, Reyes Zacarias. M, Albrino Hernandez. M., (2018) From the comprehension to the understanding: A program to acquire ethical values for kindergarteners: Book Presentation. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
@@ -57,6 +59,10 @@ Martinez-Cedillo. A.P; Chacon, F & Barragán, O (2016) The cognitive profile of 
 Mexican Population. Asociación Mexicana de Neuropsicologia: Monterrey.
 
 ## Poster Presentation.
+
+Martínez-Cedillo. A.P. & Foulsham T (2020). What affects performance during an online WM task? Visual load, maintenance, distractor processing, emotion identification, and ADHD-like traits. The Experimental psychology Society.
+
+Martínez-Cedillo. A.P. Dent, K & Foulsham T (2020). What affects fixations during image viewing? Working memory load, saliency, and ADHD-like traits VSS.
 
 Martínez-Cedillo. A.P. Dent, K & Foulsham T (2019). The effects of working memory load on image viewing. European Conference on Eye Movements. Spain.
 
