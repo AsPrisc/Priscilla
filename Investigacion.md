@@ -22,5 +22,5 @@ Si quieres conocer más acerca del proyecto escribe pvalorespreescolarbq@gmail.c
 
 ## Consultoria Escuelas
 
-He trabajado dando consultorias a escuelas particulares de la Ciudad de México y Querétaro. Principalmente, se busca crear ambientes de aprendizaje que promuevan la neurodiversidad y la exclusión en niño(a)s con TDAH, TEA. Los trabajos que se han hecho se han publicado, presentado en congresos, y en medios escritos. 
+He trabajado dando consultorias a escuelas particulares de la Ciudad de México y Querétaro. Principalmente, se busca crear ambientes de aprendizaje que promuevan la neurodiversidad y la inclusión en niño(a)s con TDAH, TEA. Los trabajos que se han hecho se han publicado, presentado en congresos, y en medios escritos. 
 No dudes en escribirme. El costo de los servicios es minimo. 
