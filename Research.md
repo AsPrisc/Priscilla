@@ -35,6 +35,6 @@ Apart from my research, I am collaborating with
 
 - Jack Mitchell. We are investigating the bodily knowledge and perception within the general population and body builders. 
 
-- Dr. Lilia Albores-Gallo. we are studying cognitive impairments in ADHD, ASD and ADHD +ASD. 
+- MD. Lilia Albores-Gallo & MD Patricia Zabaleta. we are studying cognitive impairments in ADHD, ASD and ADHD +ASD. 
 
 
