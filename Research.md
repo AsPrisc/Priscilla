@@ -5,15 +5,13 @@ bigimg: /img/curacao.jpg
 
 ---
 
-My name: Astrid Priscilla Martinez-Cedillo. I am a PhD candidate at the Vision Lab in Essex based at the Department of Psychology in the University of Essex, UK.  I am under the supervision of Tom Foulsham and Kevin Dent.
+My name: Astrid Priscilla Martinez-Cedillo. I am a PhD candidate at the Vision Lab in Essex based at the Department of Psychology, University of Essex, UK.  I am under the supervision of Tom Foulsham and Kevin Dent.
 
-Hobbies: Playing around with some data and trying to make my codes run. :)  I love to dance, cycle, walk, read and dance again. As of March 2019, I started in the yoga world :) - I am quite excited, and relaxed.
+Hobbies: Playing around with some data and trying to make my codes run. I love to dance, cycle, walk, read and dance again. As of March 2019, I started in the yoga world - I am quite excited, and relaxed.
 
 Qualifications: Master in Science (Research Master in Cognitive Neuropsychology) VU Amsterdam (2015) Associate Fellowship Higher Education Academy (AFHEA).
 
-I am learning/using: (1) R studio for data analysis and visualisation, (2) MATLAB for creating stimuli (PsychToolbox and Saliency Toolbox), and (3) Unity & Blender with Body Creator, simply curiosity.
-
-Member: (1) Vision Lab Essex (2) Colchester R Group (3) POWER Providing Opportunities for Women in Education Research (4) Essex Open Science Working Group (5) Sociedad Mexicana de Psicologia (6) Vision Science Society. 
+I am learning/using: (1) R studio, (2) MATLAB, (3) HTML and Java for running online experiments, (4) Unity & Blender with Body Creator, simply curiosity.
 
 # My Research:
 
