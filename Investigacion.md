@@ -14,6 +14,11 @@ Si has sido diagnosticado con el Trastorno de Déficit de Atención e Hiperactiv
 Alternativamente, le puedes pedir a tu Medico (paido psiquiatra, neurólogo, psiquiatra, etc.) que se ponga en contacto.
 a.p.martinezcedillo@essex.ac.uk
 
+## Proyectos disponibles 
+
+[visita aqui investigación para fisicoculturistas version Español](https://essex.eu.qualtrics.com/jfe/form/SV_eo3IiIcd1vREXNX)
+
+
 ## Proyecto Jardín de Niños
 
 El programa actualmente corre en diversas zonas de la CDMX. Inicio en el Instituto Becquerel Jardin de Ninos. [visita aqui el sitio Becquerel](http://becquerel.com.mx/)
