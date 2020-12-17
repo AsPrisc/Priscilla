@@ -86,7 +86,6 @@ Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del 
 Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From the comprehension to the understanding: A
 program to acquire ethical values for kindergarteners. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
-
 ## Book
 Martínez Cedillo, A.P., Reyes, M & Albino, M (2018) Del Egocentrismo a la adquisición y comprensión de valores: Programa
 Educativo y Social. Editorial Académica Española, ISBN 978-620-2-15485-6.
