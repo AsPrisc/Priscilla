@@ -5,8 +5,6 @@ bigimg: /img/TDAH.png
 
 
 ---
-En esta sección encontrarás información esencial que apoyan la neurodiversidad e inclusion escolar. 
-
 ## Participa 
 
 Actualmente, estoy haciendo investigación usando protocolos en línea.
