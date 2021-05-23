@@ -16,6 +16,8 @@ Dissertation. Attentional Impairments in ADHD children and ADHD with RD comorbid
 
 ## Work Experience
 University of Essex:
+As Hourly Paid Lecturer, University of West London. Teaching Cognition in Action. 
+
 As GLA: Research Methods PS114; Statistics 1st year, PS115; Statistics 2nd year PS212; Seeing and Hearing PS414. 
 As GTA: Psychatry and Mental Illness SC326.
 
@@ -77,10 +79,15 @@ TDAH con y sin dislexia. World Psychiatry Association: Guadalajara.
 Martínez-Cedillo. A.P. & Medrano-Nava, I.E. (2013). Procesos Atencionales en niños con TDAH y un trastorno
 neuropsicológico en la lectura comórbido. Asociación Psiquiátrica Mexicana: Querétaro.
 
-## Conference Paper
-Martínez-Cedillo. A.P. & Luman, M. (2016). The Feedback Related Negativity in ADHD: A meta-analytic Review. Journal of
-Clinical Neurophysiology. 127(3), p.p. e113. DOI http://dx.doi.org/10.1016/j.clinph.2015.11.381
+## Publications 
+Martínez Cedillo, A.P., Dent, K., & Foulsham, T. (2020). Do cognitive load and ADHD traits affect the tendency to prioritise social information in scenes? PsyArXiv DOI: 10.31234/osf.io/pqx45
 
+Martínez Cedillo, A.P., Dent, K., & Foulsham, T. (2020). What affects fixations during image viewing? Working memory load, saliency, and ADHD-like traits. Journal of Vision, 20(11), 670-670. DOI :https://doi.org/10.1167/jov.20.11.670
+
+Martínez-Cedillo. A.P. & Luman, M. (2016). The Feedback Related Negativity in ADHD: A meta-analytic Review. Journal of Clinical Neurophysiology. 127(3), p.p. e113. DOI http://dx.doi.org/10.1016/j.clinph.2015.11.381 
+
+
+## Conference Paper
 Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From the comprehension to the understanding: A
@@ -100,6 +107,7 @@ The effects of working memory on emotion processing and ADHD-like traits.
 
 -	Departmental Research Student Fund, University of Essex £500 (January, 2020) 
 -	Gorilla Experiment Builder, 250 tokens (January, 2020)
+-	BPS rapid grant, £400 (March 2021) 
 
 
 
