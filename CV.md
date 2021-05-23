@@ -50,16 +50,8 @@ Martínez-Cedillo. A.P. Dent, K & Foulsham T (2020). What affects fixations duri
 
 Martínez-Cedillo. A.P, Quiroz Villasana. D, Reyes Zacarias. M, Albrino Hernandez. M., (2018) From the comprehension to the understanding: A program to acquire ethical values for kindergarteners: Book Presentation. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
-Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
+Cedillo Rios, E; Martinez-Cedillo. A.P; Chacon, F & Barragán, O (2016) The working memory performance in children with a learning disorder, Asociación Mexicana de Neuropsicologia: Monterrey.
 
-Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From the comprehension to the understanding: A
-program to acquire ethical values for kindergarteners. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
-
-Cedillo Rios, E; Martinez-Cedillo. A.P; Chacon, F & Barragán, O (2016) The working memory performance in children with a
-learning disorder, Asociación Mexicana de Neuropsicologia: Monterrey.
-
-Martinez-Cedillo. A.P; Chacon, F & Barragán, O (2016) The cognitive profile of the Sluggish Cognitive Tempo and ADHD in
-Mexican Population. Asociación Mexicana de Neuropsicologia: Monterrey.
 
 ## Poster Presentation.
 
@@ -71,14 +63,11 @@ Martínez-Cedillo. A.P. Dent, K & Foulsham T (2019). The effects of working memo
 
 Martínez-Cedillo. A.P. Dent, K & Foulsham T (2018). Social and Salient competition during a working memory task in ADHD-like traits, European Summer School on Eye Movements. Germany.
 
-Martínez-Cedillo. A.P. & Luman, M. (2015). The feedback Related Negativity in ADHD: A meta-analytic review. European
-Congress on Clinical Neurophysiology. Brno, Czech Republic.
+Martínez-Cedillo. A.P. & Luman, M. (2015). The feedback Related Negativity in ADHD: A meta-analytic review. European Congress on Clinical Neurophysiology. Brno, Czech Republic.
 
-Sarmiento. E., Martínez-Cedillo. A.P., Medrano-Nava, I.E. & Flores-Lazaro, J. (2013). Procesos Atencionales en niños con
-TDAH con y sin dislexia. World Psychiatry Association: Guadalajara.
+Sarmiento. E., Martínez-Cedillo. A.P., Medrano-Nava, I.E. & Flores-Lazaro, J. (2013). Procesos Atencionales en niños con TDAH con y sin dislexia. World Psychiatry Association: Guadalajara.
 
-Martínez-Cedillo. A.P. & Medrano-Nava, I.E. (2013). Procesos Atencionales en niños con TDAH y un trastorno
-neuropsicológico en la lectura comórbido. Asociación Psiquiátrica Mexicana: Querétaro.
+Martínez-Cedillo. A.P. & Medrano-Nava, I.E. (2013). Procesos Atencionales en niños con TDAH y un trastorno neuropsicológico en la lectura comórbido. Asociación Psiquiátrica Mexicana: Querétaro.
 
 ## Publications 
 Martínez Cedillo, A.P., Dent, K., & Foulsham, T. (2020). Do cognitive load and ADHD traits affect the tendency to prioritise social information in scenes? PsyArXiv DOI: 10.31234/osf.io/pqx45
@@ -87,12 +76,6 @@ Martínez Cedillo, A.P., Dent, K., & Foulsham, T. (2020). What affects fixation
 
 Martínez-Cedillo. A.P. & Luman, M. (2016). The Feedback Related Negativity in ADHD: A meta-analytic Review. Journal of Clinical Neurophysiology. 127(3), p.p. e113. DOI http://dx.doi.org/10.1016/j.clinph.2015.11.381 
 
-
-## Conference Paper
-Orezza de la Mora, C. & Martínez-Cedillo. A.P, , (2018) Análisis crítico del Método Filadelfia en la incorporación del Modelo Educativo en la edad preescolar. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
-
-Martínez-Cedillo. A.P, Reyes Zacarias. M, Albrino Hernandez. M., (2017) From the comprehension to the understanding: A
-program to acquire ethical values for kindergarteners. Congreso Internacional de Innovacion Educativa, ITESM, Monterrey.
 
 ## Book
 Martínez Cedillo, A.P., Reyes, M & Albino, M (2018) Del Egocentrismo a la adquisición y comprensión de valores: Programa
