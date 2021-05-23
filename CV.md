@@ -15,9 +15,10 @@ Bachelor in Science Degree. Universidad Marista, Mexico City 2012
 Dissertation. Attentional Impairments in ADHD children and ADHD with RD comorbid.
 
 ## Work Experience
-University of Essex:
-As Hourly Paid Lecturer, University of West London. Teaching Cognition in Action. 
 
+Hourly Paid Lecturer, University of West London. Teaching Cognition in Action. 
+
+University of Essex:
 As GLA: Research Methods PS114; Statistics 1st year, PS115; Statistics 2nd year PS212; Seeing and Hearing PS414. 
 As GTA: Psychatry and Mental Illness SC326.
 
